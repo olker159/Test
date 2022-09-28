@@ -1,0 +1,69 @@
+//
+//  jsonfile.swift
+//  Test
+//
+//  Created by Oliver Pavlovsky on 11/08/2022.
+//
+
+[{
+        "_createdAt": "2022-08-04T19:45:32Z",
+        "_id": "8cc58b46-9461-4060-abef-16b925a3206e",
+        "_rev": "gx8qLTRciwWXk6Z5KKMJ9H",
+        "_type": "place",
+        "_updatedAt": "2022-08-09T16:55:46Z",
+        "description": "One of the most beautiful castles in the whole of Slovakia, Orava Castle was built all the way back in the 13th century, although earlier wooden palisades and fortifications once occupied its prominent outcrop. \\n\\nAs each generation added its own touches and additions, the castle boasts a variety of architectural styles, with Romanesque, Gothic, and Renaissance features all evident. \\n\\nIts museum houses some wonderful old artifacts and archaeological findings that document its rich history. Throughout the many centuries that it has stood atop the bluff, the Orava Castle has never been conquered; it’s easy to see why once you pass through its many gates, walls, and defenses.",
+        "facts": [
+            "In 1800, a fire broke out in the castle, which damaged it considerably. The reconstruction work progressed only slowly and continued until the 20th century.",
+            "In 1922, the black-and-white film Nosferatu, which is basically just a copy of Stoker's famous Dracula, was filmed here.",
+            "During the Second World War, Orava Castle served as an artillery observation post for German soldiers."
+        ],
+        "galleryImage": {
+            "_type": "image",
+            "asset": {
+                "_ref": "image-a64c13f0c54a8ddf92e73348677f5194122afd69-1200x800-jpg",
+                "_type": "reference"
+            }
+        },
+        "id": 1,
+        "image": {
+            "_type": "image",
+            "asset": {
+                "_ref": "image-119cad53231b2291fc7b58d1b85f6ae883009dca-1351x900-jpg",
+                "_type": "reference"
+            }
+        },
+        "name": "Orava Castle",
+        "shortDescription": "Orava Castle certainly looks impressive, as rolling hills lie off in the distance, and the Orava River runs below its imposing cliff face."
+    },
+    {
+        "_createdAt": "2022-08-09T16:59:20Z",
+        "_id": "e776b15d-ecc6-43d3-8b66-d8f0e7dc6890",
+        "_rev": "GTk7bzj931E6MVJaf91GD5",
+        "_type": "place",
+        "_updatedAt": "2022-08-11T17:52:23Z",
+        "description": "mage: \"vlkolinec-gall\", shortDescription: \"One of the only remaining folk villages in the whole of Central Europe, Vlkolínec is full of impressive architecture.\", description: \"With traditional log houses lying next to a beautiful Baroque chapel and an antiquated old bell tower. A very quaint and charming place to visit, the tiny village is set in an idyllic spot amidst forest-clad hills and fields, with mountains seen in the distance.\\n\\nAs such, there are many great hikes you can do in the surrounding area. Besides that, there is not all that much to do other than take in the peaceful, laidback atmosphere and marvel at the fine folk architecture.",
+        "facts": [
+            "Vlkolinec has been inscribed on the UNESCO World Heritage List since 1993.",
+            "The fauna is typical of the mountain regions of Central Europe, including the brown bear (Ursus arctos), the common wolf (Canis lupus), and the lynx (Lynx lynx).",
+            "The first (preserved) written mention of the village of Vlkolinec dates from 1461 (Wylkovinecz)."
+        ],
+        "galleryImage": {
+            "_type": "image",
+            "asset": {
+                "_ref": "image-1ee0c4951a5e205522f73c96f46cb750e4f52da9-1200x800-jpg",
+                "_type": "reference"
+            }
+        },
+        "id": 2,
+        "image": {
+            "_type": "image",
+            "asset": {
+                "_ref": "image-f1f52c99ed919c6b813379e2db5c64154ae9d1f1-800x542-jpg",
+                "_type": "reference"
+            }
+        },
+        "name": "Vlkolinec",
+        "shortDescription": "One of the only remaining folk villages in the whole of Central Europe, Vlkolínec is full of impressive architecture."
+    }
+]
+
